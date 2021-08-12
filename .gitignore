@@ -1,0 +1,8 @@
+/.ipynb_checkpoints
+/.vscode
+*.h5
+*.ipynb
+/__pycache__
+*imagenet*
+*.npy
+/models

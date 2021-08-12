@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "~/Developer/tensorflow/bin/python",
+		"python.venvPath": "~/Developer/tensorflow"
+	}
+}
